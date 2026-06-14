@@ -11,3 +11,14 @@ background-color: hsl(64, 100%, 50%);
 width: 100%;
 height: 200px;
 }
+table {
+    width: 80%;
+    background-color: #ffffff;
+    border-collapse: collapse; 
+}
+
+th, td {
+    border: 3px solid #8203f8;
+    padding: 10px;             
+text-align: center;        
+}
